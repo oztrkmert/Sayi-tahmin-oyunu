@@ -1,6 +1,6 @@
 Sayi tahmin oyunu
 
-Bu Python oyunu, kullanıcının 1 ile 100 arasındaki bir sayıyı tahmin etmesini sağlayan bir oyun sunar. Oyuncunun yalnızca 5 tahmin hakkı vardır. Her yanlış tahminden sonra, oyuncuya daha küçük veya daha büyük sayılar denemesi gerektiği bilgisi verilir. Oyuncu doğru tahmin ettiğinde oyun sonlanır.
+Bu oyun kullanıcının 1 ile 100 arasındaki bir sayıyı tahmin etmesini sağlayan bir oyun sunar. Oyuncunun yalnızca 5 tahmin hakkı vardır. Her yanlış tahminden sonra, oyuncuya daha küçük veya daha büyük sayılar denemesi gerektiği bilgisi verilir. Oyuncu doğru tahmin ettiğinde oyun sonlanır.
 
 Özellikler:
 1 ile 100 arasında rastgele bir sayı tutulur.
